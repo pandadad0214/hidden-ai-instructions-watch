@@ -1,0 +1,149 @@
+[
+ {
+  "type": "page-summary",
+  "url": "https://agenticskills.io/submit",
+  "finalUrl": "https://agenticskills.io/submit",
+  "httpStatus": 200,
+  "rendered": false,
+  "findings": 0,
+  "categories": [],
+  "topSeverity": null,
+  "techniques": [],
+  "htmlSha256": "1df9096e181273d04e8b1b12592070e61fa81aa57e6c056caf18513f5d52fa75",
+  "error": null,
+  "scannedAt": "2026-11-04T19:19:11+00:00",
+  "agentSummary": "https://agenticskills.io/submit: 0 hidden AI-directed text finding(s) (clean)"
+ },
+ {
+  "url": "https://dev.to/new",
+  "technique": "agent guidance link",
+  "location": "link[rel=\"describedby\"][href=\"https://dev.to/llms.txt\"]",
+  "excerpt": "Guidance for AI agents",
+  "target": "AI agents",
+  "category": "policy notice",
+  "severity": "low",
+  "signals": [
+   "addresses-ai:link title",
+   "pointer:agent guidance file"
+  ],
+  "type": "finding",
+  "scannedAt": "2026-11-04T19:19:11+00:00",
+  "rendered": false,
+  "agentSummary": "POLICY NOTICE (low) via agent guidance link at link[rel=\"describedby\"][href=\"https://dev.to/llms.txt\"]: \"Guidance for AI agents\""
+ },
+ {
+  "type": "page-summary",
+  "url": "https://dev.to/new",
+  "finalUrl": "https://dev.to/new",
+  "httpStatus": 200,
+  "rendered": false,
+  "findings": 1,
+  "categories": [
+   "policy notice"
+  ],
+  "topSeverity": "low",
+  "techniques": [
+   "agent guidance link"
+  ],
+  "htmlSha256": "08b615137820f2c15eb562a15029eb69e2adf1105315dbd666cc36746206c649",
+  "error": null,
+  "scannedAt": "2026-11-04T19:19:11+00:00",
+  "agentSummary": "https://dev.to/new: 1 hidden AI-directed text finding(s) (policy notice)"
+ },
+ {
+  "type": "page-summary",
+  "url": "https://www.producthunt.com/posts/new",
+  "finalUrl": "https://www.producthunt.com/posts/new",
+  "httpStatus": 403,
+  "rendered": false,
+  "findings": 0,
+  "categories": [],
+  "topSeverity": null,
+  "techniques": [],
+  "htmlSha256": null,
+  "error": "HTTP 403 (blocked or not found; page not scanned)",
+  "scannedAt": "2026-11-04T19:19:12+00:00",
+  "agentSummary": "https://www.producthunt.com/posts/new: could not scan (HTTP 403 (blocked or not found; page not scanned))"
+ },
+ {
+  "type": "page-summary",
+  "url": "https://devhunt.org",
+  "finalUrl": "https://devhunt.org",
+  "httpStatus": 200,
+  "rendered": false,
+  "findings": 0,
+  "categories": [],
+  "topSeverity": null,
+  "techniques": [],
+  "htmlSha256": "a16412c07f4a7583d8dbc40af6e97d3ea4f1b0bc56681aec037e22e9921ca52a",
+  "error": null,
+  "scannedAt": "2026-11-04T19:19:12+00:00",
+  "agentSummary": "https://devhunt.org: 0 hidden AI-directed text finding(s) (clean)"
+ },
+ {
+  "url": "https://dev.to",
+  "technique": "agent guidance link",
+  "location": "link[rel=\"describedby\"][href=\"https://dev.to/llms.txt\"]",
+  "excerpt": "Guidance for AI agents",
+  "target": "AI agents",
+  "category": "policy notice",
+  "severity": "low",
+  "signals": [
+   "addresses-ai:link title",
+   "pointer:agent guidance file"
+  ],
+  "type": "finding",
+  "scannedAt": "2026-11-04T19:19:12+00:00",
+  "rendered": false,
+  "agentSummary": "POLICY NOTICE (low) via agent guidance link at link[rel=\"describedby\"][href=\"https://dev.to/llms.txt\"]: \"Guidance for AI agents\""
+ },
+ {
+  "type": "page-summary",
+  "url": "https://dev.to",
+  "finalUrl": "https://dev.to",
+  "httpStatus": 200,
+  "rendered": false,
+  "findings": 1,
+  "categories": [
+   "policy notice"
+  ],
+  "topSeverity": "low",
+  "techniques": [
+   "agent guidance link"
+  ],
+  "htmlSha256": "eb8c2fe74d9bd42602a9b94b7914b154a2882642dddc54d624db8cfc84e81f5e",
+  "error": null,
+  "scannedAt": "2026-11-04T19:19:12+00:00",
+  "agentSummary": "https://dev.to: 1 hidden AI-directed text finding(s) (policy notice)"
+ },
+ {
+  "type": "page-summary",
+  "url": "https://www.producthunt.com",
+  "finalUrl": "https://www.producthunt.com",
+  "httpStatus": 403,
+  "rendered": false,
+  "findings": 0,
+  "categories": [],
+  "topSeverity": null,
+  "techniques": [],
+  "htmlSha256": null,
+  "error": "HTTP 403 (blocked or not found; page not scanned)",
+  "scannedAt": "2026-11-04T19:19:12+00:00",
+  "agentSummary": "https://www.producthunt.com: could not scan (HTTP 403 (blocked or not found; page not scanned))"
+ },
+ {
+  "type": "page-summary",
+  "url": "https://agenticskills.io/submit?type=mcp",
+  "finalUrl": "https://agenticskills.io/submit?type=mcp",
+  "httpStatus": 200,
+  "rendered": false,
+  "findings": 0,
+  "categories": [],
+  "topSeverity": null,
+  "techniques": [],
+  "htmlSha256": "8128b5bffd1c20a2b7c107ef60df5b7cf822a0aa7e404eb657d3e49f4258176a",
+  "error": null,
+  "scannedAt": "2026-11-04T19:19:12+00:00",
+  "agentSummary": "https://agenticskills.io/submit?type=mcp: 0 hidden AI-directed text finding(s) (clean)"
+ }
+]
