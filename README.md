@@ -4,11 +4,11 @@ Check whether a web page hides text from people that AI agents will still read, 
 
 Hidden text aimed at AI is not always a problem. Many sites use it to state a policy, such as "AI crawlers: please don't scrape this." Some use it to steer what an agent does or says. A few try to make an agent hand over data or credentials. This log records **what the text is, where it is, and how it is hidden**. It does not judge the intent of the people who run the site.
 
-## Part of [Panda Federation](https://pandafederation.github.io/)
+## Part of [Panda Federation](https://pandafederation.com/)
 
-[![Part of Panda Federation](https://pandafederation.github.io/assets/badge.svg)](https://pandafederation.github.io/)
+[![Part of Panda Federation](https://pandafederation.com/assets/badge.svg)](https://pandafederation.com/)
 
-This project is a module of the Panda Federation — public-data tools, MCP servers, and local-first apps in one catalog. See the rest of the work, including books when they publish and the matching free or paid editions of this tool, at the [official site](https://pandafederation.github.io/).
+This project is a module of the Panda Federation — public-data tools, MCP servers, and local-first apps in one catalog. See the rest of the work, including books when they publish and the matching free or paid editions of this tool, at the [official site](https://pandafederation.com/).
 
 ## How to use this
 Use the free Apify Actor **[Hidden AI Instructions Scanner](https://apify.com/pandadad0214/hidden-ai-instructions-scanner)**:
