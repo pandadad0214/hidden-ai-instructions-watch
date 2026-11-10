@@ -1,0 +1,18 @@
+{
+  "version": "1",
+  "name": "Hidden AI Instructions Watch",
+  "description": "Free scanner and evidence log for hidden AI-directed page text.",
+  "url": "https://pandadad0214.github.io/hidden-ai-instructions-watch/",
+  "spec": "https://webmachinelearning.github.io/webmcp/",
+  "catalog": "https://pandadad0214.github.io/hidden-ai-instructions-watch/webmcp-catalog.json",
+  "llms_txt": "https://pandadad0214.github.io/hidden-ai-instructions-watch/llms.txt",
+  "tools": [
+    "list_tools",
+    "get_links",
+    "get_project_overview"
+  ],
+  "registration": "document.modelContext.registerTool",
+  "annotations": {
+    "readOnlyHint": true
+  }
+}

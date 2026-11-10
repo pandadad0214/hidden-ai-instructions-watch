@@ -1,0 +1,45 @@
+{
+  "version": "2026-11-10",
+  "generated_at": "2026-11-10T10:23:00-07:00",
+  "site": {
+    "name": "Hidden AI Instructions Watch",
+    "description": "Free scanner and evidence log for web pages that hide text from people but address AI agents.",
+    "url": "https://pandadad0214.github.io/hidden-ai-instructions-watch/",
+    "links": {
+      "github": "https://github.com/pandadad0214/hidden-ai-instructions-watch",
+      "apify": "https://apify.com/pandadad0214/hidden-ai-instructions-scanner",
+      "official_site": "https://pandafederation.com/",
+      "tools_docs": "https://pandadad0214.github.io/panda-federation-tools/",
+      "llms_txt": "https://pandadad0214.github.io/hidden-ai-instructions-watch/llms.txt",
+      "catalog": "https://pandadad0214.github.io/hidden-ai-instructions-watch/webmcp-catalog.json"
+    }
+  },
+  "servers": [],
+  "overview": {
+    "name": "Hidden AI Instructions Watch",
+    "summary": "Check whether a web page hides text from people that AI agents will still read. The free scanner is on the Apify Store and in panda-web-security-tools. This site and repo host an evidence-only log of public pages, with method and a corrections process.",
+    "scanner": "https://apify.com/pandadad0214/hidden-ai-instructions-scanner",
+    "log": "https://github.com/pandadad0214/hidden-ai-instructions-watch",
+    "mcp_tool": "hidden_ai_instructions_scanner",
+    "mcp_server": "panda-web-security-tools"
+  },
+  "editions": [
+    {
+      "product": "Hidden AI Instructions Scanner",
+      "editions": [
+        {
+          "name": "Free scanner (Actor and MCP tool)",
+          "kind": "free",
+          "url": "https://apify.com/pandadad0214/hidden-ai-instructions-scanner",
+          "notes": "Also available as hidden_ai_instructions_scanner in panda-web-security-tools."
+        },
+        {
+          "name": "Public evidence log",
+          "kind": "free",
+          "url": "https://github.com/pandadad0214/hidden-ai-instructions-watch",
+          "notes": "Evidence-only log of public pages, with method and corrections process."
+        }
+      ]
+    }
+  ]
+}
