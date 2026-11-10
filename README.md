@@ -10,6 +10,8 @@ Hidden text aimed at AI is not always a problem. Many sites use it to state a po
 
 This project is a module of the Panda Federation — public-data tools, MCP servers, and local-first apps in one catalog. See the rest of the work, including books when they publish and the matching free or paid editions of this tool, at the [official site](https://pandafederation.com/).
 
+Follow on X: [@PandaFedHQ](https://x.com/PandaFedHQ)
+
 ## How to use this
 Use the free Apify Actor **[Hidden AI Instructions Scanner](https://apify.com/pandadad0214/hidden-ai-instructions-scanner)**:
 1. Paste one or more page URLs.

@@ -7,3 +7,4 @@
 - This Pages site: https://pandadad0214.github.io/hidden-ai-instructions-watch/
 
 This page exposes read-only WebMCP tools: list_tools, get_links, get_project_overview. Catalog: webmcp-catalog.json
+- X: https://x.com/PandaFedHQ  (Follow on X: @PandaFedHQ)
